@@ -6,7 +6,7 @@
     "start": "node hare.js"
   },
   "dependencies": {
-    "express": "3.4.8",
+    "express": "4.22.0",
     "jade": "*",
     "stylus": "*",
     "nib": "*",
